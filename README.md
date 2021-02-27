@@ -1,0 +1,2 @@
+# PlataformaGeneration
+Atividades para entregar 
